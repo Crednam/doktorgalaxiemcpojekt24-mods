@@ -2,27 +2,27 @@
 
 ## Villeger Mod
 
-- - [ ] x] - [ ] Towns and Towers - Minecraft Mod](https://modrinth.com/mod/towns-and-towers) t_and_t-neoforge-fabric-1.13.2.jar
+- [x] Towns and Towers - Minecraft Mod](https://modrinth.com/mod/towns-and-towers) t_and_t-neoforge-fabric-1.13.2.jar
 
 ~~- [ ] Towers of the Wild Modded - Minecraft Mod](https://modrinth.com/mod/totw-modded)~~
 
-- [ ] Tidal Towns - Minecraft Data Pack](https://modrinth.com/datapack/tidal-towns/versions)
+- [x] Tidal Towns - Minecraft Data Pack](https://modrinth.com/datapack/tidal-towns/versions)
 
-- [ ] Luki's Grand Capitals](https://modrinth.com/datapack/lukis-grand-capitals/versions) lukis-grand-capitals-1.0.jar
+- [x] Luki's Grand Capitals](https://modrinth.com/datapack/lukis-grand-capitals/versions) lukis-grand-capitals-1.0.jar
 
 ## Terrain
 
-- [ ] Terralith](https://modrinth.com/mod/terralith/versions) Terralith_1.21_v2.5.4.jar
+- [x] Terralith](https://modrinth.com/mod/terralith/versions) Terralith_1.21_v2.5.4.jar
 
-- [ ] Terratonic](https://modrinth.com/datapack/terratonic) (Datapack)
+- [x] Terratonic](https://modrinth.com/datapack/terratonic) (Datapack)
 
 ## Dungeons
 
-- [ ] Hopo Better Ruined Portals](https://modrinth.com/datapack/hopo-better-ruined-portals) HopoBetterRuinedPortals-- [ ] 1.21]-1.4.3.jar
+- [x] Hopo Better Ruined Portals](https://modrinth.com/datapack/hopo-better-ruined-portals) HopoBetterRuinedPortals-- [ ] 1.21]-1.4.3.jar
 
-- [ ] Hopo Better Mineshaft](https://modrinth.com/datapack/hopo-better-mineshaft) HopoBetterMineshaft-- [ ] 1.21]-1.2.7.jar
+- [x] Hopo Better Mineshaft](https://modrinth.com/datapack/hopo-better-mineshaft) HopoBetterMineshaft-- [ ] 1.21]-1.2.7.jar
 
-- [ ] Hopo Better Underwater Ruins](https://modrinth.com/datapack/hopo-better-underwater-ruins) HopoBetterUnderwaterRuins-- [ ] 1.21]-1.2.0b.jar
+- [x] Hopo Better Underwater Ruins](https://modrinth.com/datapack/hopo-better-underwater-ruins) HopoBetterUnderwaterRuins-- [ ] 1.21]-1.2.0b.jar
 
 ~~- [ ] Explorify](https://modrinth.com/datapack/explorify)~~
 

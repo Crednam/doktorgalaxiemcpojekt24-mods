@@ -62,7 +62,6 @@
 
 ## Dependencys
 
-- [ ] [Moonlight Lib - Minecraft Mod](https://modrinth.com/mod/moonlight) (Möbel)
-- [ ] [Cristel Lib - Minecraft Mod](https://modrinth.com/mod/cristel-lib/versions)
-
-- [ ] [Fabric API - Minecraft Mod](https://modrinth.com/mod/fabric-api/)
+- [x] [Moonlight Lib - Minecraft Mod](https://modrinth.com/mod/moonlight) (Möbel)
+- [x] [Cristel Lib - Minecraft Mod](https://modrinth.com/mod/cristel-lib/versions)
+- [x] [Fabric API - Minecraft Mod](https://modrinth.com/mod/fabric-api/)

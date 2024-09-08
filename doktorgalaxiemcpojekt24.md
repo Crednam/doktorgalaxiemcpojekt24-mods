@@ -54,7 +54,7 @@
 
 # Performance
 
-- [ ] [Noisium](https://modrinth.com/mod/noisium) *Welt generation* noisium-fabric-2.3.0+mc1.21-1.21.1.jar
+- [x] [Noisium](https://modrinth.com/mod/noisium) *Welt generation* noisium-fabric-2.3.0+mc1.21-1.21.1.jar
 
 ## Client Only
 

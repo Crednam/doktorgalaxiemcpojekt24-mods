@@ -53,7 +53,7 @@
 ~~- [ ] [Toggle Item Frames](https://modrinth.com/mod/toggle-item-frames/version/vuXAkBNE) (?)~~
 - [x] [Essential Commands](https://modrinth.com/mod/essential-commands "https://modrinth.com/mod/essential-commands")
 - [x] [TabTPS](https://github.com/jpenilla/TabTPS)
-- [ ] [FTB Ranks](https://docs.feed-the-beast.com/docs/mods/suite/Ranks/) [curseforge](https://legacy.curseforge.com/minecraft/mc-mods/ftb-ranks-forge)
+- [ ] [FTB Ranks](https://docs.feed-the-beast.com/docs/mods/suite/Ranks/) [curseforge](https://www.curseforge.com/minecraft/mc-mods/ftb-ranks-fabric)
 
 # Performance
 

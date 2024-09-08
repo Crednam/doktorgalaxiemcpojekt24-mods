@@ -55,6 +55,8 @@
 # Performance
 
 - [x] [Noisium](https://modrinth.com/mod/noisium) *Welt generation* noisium-fabric-2.3.0+mc1.21-1.21.1.jar
+- [x] [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric) c2me-fabric-mc1.21-0.2.0+alpha.11.109.jar
+- [x] [Lithium](https://modrinth.com/mod/lithium) lithium-fabric-mc1.21-0.13.0.jar
 
 ## Client Only
 

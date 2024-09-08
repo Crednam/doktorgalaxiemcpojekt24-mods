@@ -2,7 +2,7 @@
 
 ## Villeger Mod
 
--[ ] [Towns and Towers - Minecraft Mod](https://modrinth.com/mod/towns-and-towers) t_and_t-neoforge-fabric-1.13.2.jar
+- [x] [Towns and Towers - Minecraft Mod](https://modrinth.com/mod/towns-and-towers) t_and_t-neoforge-fabric-1.13.2.jar
 
 ~~[Towers of the Wild Modded - Minecraft Mod](https://modrinth.com/mod/totw-modded)~~
 

@@ -27,13 +27,13 @@
 ~~- [ ] [Explorify](https://modrinth.com/datapack/explorify)~~
 
 - [x] [Dungeons and Tavern](https://modrinth.com/datapack/dungeons-and-taverns) dungeons-and-taverns-v4.3.jar
-- [ ] [Dungeons and Taverns Stronghold Overhaul](https://modrinth.com/datapack/dungeons-and-taverns-stronghold-overhaul)
-- [ ] [Dungeons and Taverns Nether Fortress Overhaul](https://aditude-test.modrinth.com/datapack/dungeons-and-taverns-nether-fortress-overhaul/versions)
-- [ ] [Dungeons and Taverns Woodland Mansion Replacement](https://modrinth.com/datapack/dungeons-and-taverns-woodland-mansion-replacement/version/v1.1+mod)
-- [ ] [Dungeons and Taverns Jungle Temple Replacement](https://modrinth.com/datapack/dungeons-and-taverns-jungle-temple-replacement) dungeons-and-taverns-jungle-temple-overhaul-v1.1.jar
-- [ ] [Dungeons and Taverns End Castle Standalone](https://modrinth.com/datapack/dungeons-and-taverns-end-castle-standalone) dungeons-and-taverns-end-castle-standalone-v1.jar
-- [ ] [Dungeons and Taverns Ancient City Overhaul](https://modrinth.com/datapack/dungeons-and-taverns-ancient-city-overhaul) dungeons-and-taverns-ancient-city-overhaul-v2.jar
-- [ ] [Dungeons and Taverns Desert Temple Replacement](https://modrinth.com/datapack/dungeons-and-taverns-desert-temple-replacement) dungeons-and-taverns-desert-temple-overhaul-v1.1.jar
+- [x] [Dungeons and Taverns Stronghold Overhaul](https://modrinth.com/datapack/dungeons-and-taverns-stronghold-overhaul)
+- [x] [Dungeons and Taverns Nether Fortress Overhaul](https://aditude-test.modrinth.com/datapack/dungeons-and-taverns-nether-fortress-overhaul/versions)
+- [x] [Dungeons and Taverns Woodland Mansion Replacement](https://modrinth.com/datapack/dungeons-and-taverns-woodland-mansion-replacement/version/v1.1+mod)
+- [x] [Dungeons and Taverns Jungle Temple Replacement](https://modrinth.com/datapack/dungeons-and-taverns-jungle-temple-replacement) dungeons-and-taverns-jungle-temple-overhaul-v1.1.jar
+- [x] [Dungeons and Taverns End Castle Standalone](https://modrinth.com/datapack/dungeons-and-taverns-end-castle-standalone) dungeons-and-taverns-end-castle-standalone-v1.jar
+- [x] [Dungeons and Taverns Ancient City Overhaul](https://modrinth.com/datapack/dungeons-and-taverns-ancient-city-overhaul) dungeons-and-taverns-ancient-city-overhaul-v2.jar
+- [x] [Dungeons and Taverns Desert Temple Replacement](https://modrinth.com/datapack/dungeons-and-taverns-desert-temple-replacement) dungeons-and-taverns-desert-temple-overhaul-v1.1.jar
 
 # Entitys
 

@@ -30,6 +30,7 @@
 - [ ] [Dungeons and Taverns Stronghold Overhaul](https://modrinth.com/datapack/dungeons-and-taverns-stronghold-overhaul)
 - [ ] [Dungeons and Taverns Nether Fortress Overhaul](https://aditude-test.modrinth.com/datapack/dungeons-and-taverns-nether-fortress-overhaul/versions)
 - [ ] [Dungeons and Taverns Woodland Mansion Replacement](https://modrinth.com/datapack/dungeons-and-taverns-woodland-mansion-replacement/version/v1.1+mod)
+- [ ] [Dungeons and Taverns Jungle Temple Replacement](https://modrinth.com/datapack/dungeons-and-taverns-jungle-temple-replacement) dungeons-and-taverns-jungle-temple-overhaul-v1.1.jar
 
 # Entitys
 

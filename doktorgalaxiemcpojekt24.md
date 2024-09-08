@@ -4,7 +4,7 @@
 
 - [x] Towns and Towers - Minecraft Mod](https://modrinth.com/mod/towns-and-towers) t_and_t-neoforge-fabric-1.13.2.jar
 
-~~- [ ] Towers of the Wild Modded - Minecraft Mod](https://modrinth.com/mod/totw-modded)~~
+- [ ] ~~- Towers of the Wild Modded - Minecraft Mod](https://modrinth.com/mod/totw-modded)~~
 
 - [x] Tidal Towns - Minecraft Data Pack](https://modrinth.com/datapack/tidal-towns/versions)
 

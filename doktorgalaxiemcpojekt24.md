@@ -26,7 +26,7 @@
 
 ~~- [ ] [Explorify](https://modrinth.com/datapack/explorify)~~
 
-- [ ] [Dungeons and Tavern](https://modrinth.com/datapack/dungeons-and-taverns)
+- [ ] [Dungeons and Tavern](https://modrinth.com/datapack/dungeons-and-taverns) dungeons-and-taverns-v4.3.jar
 - [ ] [Dungeons and Taverns Stronghold Overhaul](https://modrinth.com/datapack/dungeons-and-taverns-stronghold-overhaul)
 - [ ] [Dungeons and Taverns Nether Fortress Overhaul](https://aditude-test.modrinth.com/datapack/dungeons-and-taverns-nether-fortress-overhaul/versions)
 - [ ] [Dungeons and Taverns Woodland Mansion Replacement](https://modrinth.com/datapack/dungeons-and-taverns-woodland-mansion-replacement/version/v1.1+mod)

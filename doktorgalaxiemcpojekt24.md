@@ -51,7 +51,8 @@
 - [ ] [Easy Anvils](https://modrinth.com/mod/easy-anvils)
 
 ~~- [ ] [Toggle Item Frames](https://modrinth.com/mod/toggle-item-frames/version/vuXAkBNE) (?)~~
-- [ ] [Essential Commands](https://modrinth.com/mod/essential-commands "https://modrinth.com/mod/essential-commands")
+- [x] [Essential Commands](https://modrinth.com/mod/essential-commands "https://modrinth.com/mod/essential-commands")
+- [x] [TabTPS](https://github.com/jpenilla/TabTPS)
 
 # Performance
 

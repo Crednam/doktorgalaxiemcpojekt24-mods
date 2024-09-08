@@ -40,7 +40,7 @@
 
 - [ ] [Farmer's Delight](https://modrinth.com/mod/farmers-delight-fabric/versions) (Client)
 
-- [ ] [UniversalGraves](https://github.com/Patbox/UniversalGraves)
+- [x] [UniversalGraves](https://github.com/Patbox/UniversalGraves)
 
 # Tools
 

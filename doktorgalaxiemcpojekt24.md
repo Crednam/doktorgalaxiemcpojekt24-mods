@@ -2,7 +2,7 @@
 
 ## Villeger Mod
 
-[Towns and Towers - Minecraft Mod](https://modrinth.com/mod/towns-and-towers) t_and_t-neoforge-fabric-1.13.2.jar
+-[ ] [Towns and Towers - Minecraft Mod](https://modrinth.com/mod/towns-and-towers) t_and_t-neoforge-fabric-1.13.2.jar
 
 ~~[Towers of the Wild Modded - Minecraft Mod](https://modrinth.com/mod/totw-modded)~~
 
@@ -54,7 +54,7 @@
 
 # Performance
 
-[Noisium](https://modrinth.com/mod/noisium) noisium-fabric-2.3.0+mc1.21-1.21.1.jar
+[Noisium](https://modrinth.com/mod/noisium) *Welt generation* noisium-fabric-2.3.0+mc1.21-1.21.1.jar
 
 ## Client Only
 

@@ -4,8 +4,6 @@
 
 - [x] [Towns and Towers - Minecraft Mod](https://modrinth.com/mod/towns-and-towers) t_and_t-neoforge-fabric-1.13.2.jar
 
-- [x] [ Towers of the Wild Modded - Minecraft Mod](https://modrinth.com/mod/totw-modded) totw_modded-fabric-1.21-1.0.5.jar
-
 - [x] [Tidal Towns - Minecraft Data Pack](https://modrinth.com/datapack/tidal-towns/versions)
 
 - [x] [Luki's Grand Capitals](https://modrinth.com/datapack/lukis-grand-capitals/versions) lukis-grand-capitals-1.0.jar

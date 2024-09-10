@@ -35,7 +35,7 @@
 
 # Entitys
 
-- [ ] [Friends & Foes](https://modrinth.com/mod/friends-and-foes-forge) (client)
+- [x] [Friends & Foes](https://modrinth.com/mod/friends-and-foes) (client)
 
 # Additions
 

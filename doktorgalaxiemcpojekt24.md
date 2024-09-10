@@ -43,7 +43,7 @@
 
 - [x] [Guard Villagers](https://modrinth.com/mod/guard-villagers-(fabricquilt)/versions) (Client) guardvillagers-2.1.2-1.21.jar
 
-- [ ] [Farmer's Delight](https://modrinth.com/mod/farmers-delight-refabricated) (Client) FarmersDelight-1.21-2.1.8+refabricated.jar
+- [x] [Farmer's Delight](https://modrinth.com/mod/farmers-delight-refabricated) (Client) FarmersDelight-1.21-2.1.8+refabricated.jar
 
 - [x] [UniversalGraves](https://github.com/Patbox/UniversalGraves)
 

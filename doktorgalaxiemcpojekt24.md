@@ -39,9 +39,9 @@
 
 # Additions
 
-- [ ] [Handcrafted](https://modrinth.com/mod/handcrafted/versions) (Client)
+- [x] [Handcrafted](https://modrinth.com/mod/handcrafted/versions) (Client) handcrafted-fabric-1.21-4.0.1.jar
 
-- [ ] [Guard Villagers](https://modrinth.com/mod/guard-villagers-(fabricquilt)/versions) (Client)
+- [x] [Guard Villagers](https://modrinth.com/mod/guard-villagers-(fabricquilt)/versions) (Client) guardvillagers-2.1.2-1.21.jar
 
 - [ ] [Farmer's Delight](https://modrinth.com/mod/farmers-delight-fabric/versions) (Client)
 

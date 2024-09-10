@@ -51,7 +51,9 @@
 
 - [ ] [item placer](https://modrinth.com/mod/item-placer/versions) (Client) (?)
 
-- [ ] [Easy Shulker Boxes](https://modrinth.com/mod/easy-shulker-boxes) (Client) - [ ] Easy Magic](https://modrinth.com/mod/easy-magic)
+- [ ] [Easy Shulker Boxes](https://modrinth.com/mod/easy-shulker-boxes) (Client)
+
+- [ ] Easy Magic](https://modrinth.com/mod/easy-magic)
 
 - [ ] [Easy Anvils](https://modrinth.com/mod/easy-anvils)
 
